@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/GogoChad/Smash-Music-Ultimate-Conversion-Tool/refs/heads/main/icon.ico" width="200">
 </p>
 
-# MUST - Music Ultimate Sound Tool
+# SMUCT - Smash Music Ultimate Conversion Tool
 
 A tool for converting and managing custom music files for Super Smash Bros. Ultimate mods.
 
